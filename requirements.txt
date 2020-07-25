@@ -12,5 +12,7 @@ pandas>=0.19
 flasgger==0.9.4
 streamlit
 yfinance
-
+textblob
+bs4
+requests
 
